@@ -1,3 +1,3 @@
-# Latin-Is-Simple-api-gui
+# Latin-Is-Simple-api-cli
 
 [](test)
